@@ -12,7 +12,7 @@
       // /.-(() ())-.\ \\     
      (\ |)   '---'   (| /)    Get in touch:
       ` (|           |) `         - Email me: sebastian.mendoza.clases@gmail.com
-        \)           (/           - Checkout my CV: [INSERT CV LINK HERE]
+        \)           (/           
        
-         (hire me, pls)
+         
 ```
